@@ -1,0 +1,70 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+/* header section */
+
+.banar-container {
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 680px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img {
+    width: 610px;
+    height: 635px;
+    margin-top: 49px;
+    padding-right: 135px;
+}
+
+.head1 {
+    font-family: Lato;
+    font-size: 70px;
+    color: #272727;
+    font-style: normal;
+}
+
+.para1 {
+    font-family: loto;
+    color: rgba(39, 39, 39, 0.60);
+    padding-top: 35px;
+}
+
+.h-tag {
+    padding-left: 115px;
+}
+
+.btn {
+    height: 50px;
+    width: 140px;
+    background: #d24d6a;
+    border-radius: 8px;
+    margin-top: 25px;
+    color: white;
+    font-size: 15px;
+    border: none;
+}
+
+
+/* img section */
+
+.par1 {
+    font-size: 35px;
+    margin-top: 140px;
+}
+
+.section-h-cointain {
+    text-align: center;
+    font-family: Loto;
+}
+
+.par2 {
+    font-family: Loto;
+    color: rgba(39, 39, 39, 0.60);
+    padding-top: 23px;
+}
